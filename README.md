@@ -1,4 +1,4 @@
-# 🎨 Taller NFT en la Blockchain Sui
+# 🎨 Workshop NFT en la Blockchain Sui
 
 ## 🎯 Descripción
 Proyecto educacional completo para enseñar la creación de NFTs en la blockchain Sui utilizando el lenguaje Move. Material desarrollado para talleres y eventos de blockchain.
